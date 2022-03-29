@@ -1,0 +1,19 @@
+body{
+    /*latte*/
+    color:#c7a17a;
+
+    /*white*/
+    color:#fff;
+
+    coffee:
+    color:#96746b;
+
+    dark coffee:
+    color:#312a26;
+
+    gray:
+    color: #f2f2f2;
+
+    black:
+    color:#19100F;
+}
